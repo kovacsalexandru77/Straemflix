@@ -1,0 +1,14 @@
+{
+   "latest":10,
+   "banner":"chilflix-1740782397",
+   "video":"https://youtube.com/shorts/O05EqngUm0A",
+   "newapp": true,
+   "newpackage": "com.ajpro.streamflixapp",
+   "notice":true,
+   "title":"Anouncement!",
+   "text":"Dear Users! \n On high user demand we have launched new improved and more stable version of streamflix *Streamflix 2.0*. Download the new app from \n\n streamflix.app/app \n\nThanks for your Love & Support. Enjoy",
+   "movies": ["https://kovacsalexandru77.github.io/Flix//","https://kovacsalexandru77.github.io/..../"],
+   "tv": ["https://kovacsalexandru77.github.io/NETFLIPRINE/","https://netfree2.cc/tv/home"],
+   "premium": ["https://kovacsalexandru77.github.io/..../","https://kovacsalexandru77.github.io/..../"],
+   "download": ["https://napifilm.hu/", "https://napifilm.hu/", "https://napifilm.hu/"]
+}
